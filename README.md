@@ -1,2 +1,2 @@
 # brand-resources
-logo, fonts, colors, and brand guidelines
+This document serves as a reference for maintaining brand consistency across all platforms and materials.
